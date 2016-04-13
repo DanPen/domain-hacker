@@ -13,5 +13,10 @@
     "short"
   ],
   "author": "Daniel Pendergast",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "whois": "^2.1.5",
+    "whois-available": "^0.2.2",
+    "wordlist-english": "^1.1.0"
+  }
 }
